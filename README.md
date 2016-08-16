@@ -14,3 +14,4 @@ Nécessite :
 - https://bitbucket.org/tiran/defusedxml
 - yum install pyOpenSSL
 - yum install python-cryptography
+- yum install python-setuptools
