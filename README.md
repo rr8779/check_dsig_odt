@@ -16,3 +16,5 @@ Nécessite :
 - https://pypi.python.org/pypi/future
 
 - yum install python-lxml.x86_64
+
+- https://bitbucket.org/tiran/defusedxml
