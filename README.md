@@ -14,3 +14,5 @@ Nécessite :
 - https://pypi.python.org/pypi/eight
 
 - https://pypi.python.org/pypi/future
+
+- yum install python-lxml.x86_64
